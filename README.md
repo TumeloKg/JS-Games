@@ -1,1 +1,1 @@
-# JS-GAmes
+# JS-Games
